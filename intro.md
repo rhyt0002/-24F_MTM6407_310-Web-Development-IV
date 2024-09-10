@@ -8,3 +8,6 @@ Your heart races. Do you risk everything for the treasure? Or turn back and live
 
 What do you do next?
 
+- [Investigate the voice in the shadows](choice1.md)
+- [Push forward into the temple](choice2.md)
+- [Retreat and seek help](choice3.md)
