@@ -8,7 +8,6 @@ Your heart races. Do you risk everything for the treasure? Or turn back and live
 
 What do you do next?
 - [Check the voice](/my_intro.md)
-- [check the temple](/my_intro2.md)
-- [Retreat from the temple](/my-story.md)
+
 
 
