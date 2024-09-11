@@ -11,3 +11,4 @@ What do you do next?
 - [check the voice](/my_intro.md)
 - [check the temple](/my_intro2.md)
 - [Retreat from the temple](/my-story.md)
+- [Investigate the voice in the shadows](choice1.md)
