@@ -10,4 +10,6 @@ What do you do next?
 - [Check the voice](/my_intro.md)
 
 
-
+- [check the voice](/my_intro.md)
+- [check the temple](/my_intro2.md)
+- [Retreat from the temple](/my-story.md)
