@@ -7,5 +7,10 @@ But not everyone wants you to succeed. As you take a step closer, the ground tre
 Your heart races. Do you risk everything for the treasure? Or turn back and live to tell the tale?
 
 What do you do next?
+- [Check the voice](/my_intro.md)
+- [Check the temple](/my_intro2.md)
+- [Retreat from the temple](/my-story.md)
+
+
 
 
